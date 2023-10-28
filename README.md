@@ -1,9 +1,7 @@
 # Somático EP2
 
 ```
-Lucas Cruz
-Nathalia Correa
-Renato Puga
+Trabalho EP2 
 ```
 ---
 # Roteiro Oficial - Completo
